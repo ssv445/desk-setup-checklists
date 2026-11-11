@@ -4,7 +4,7 @@ The new monitor feels great for an hour. By afternoon your chin is up to see the
 
 This list has three parts: measure at home, check in the shop or on the product page, and walk away if you see a fault on the last list.
 
-**Your numbers:** how high the top of your screen goes comes from your height. For numbers worked out from your height, see [what to look for in a monitor](https://poxture.com/guides/how-to-choose-a-monitor).
+**Your numbers:** the height of your screen's top edge comes from your height. For numbers worked out from your height, see [what to look for in a monitor](https://poxture.com/guides/how-to-choose-a-monitor).
 
 ## Words on the product page
 
@@ -16,8 +16,8 @@ This list has three parts: measure at home, check in the shop or on the product 
 
 ## 1. Measure at home before you go
 
-1. **Your height → how high the top of your screen goes above the desk.**
-   How: stand barefoot against a wall, mark the top of your head, measure floor to mark. Note it if you work in shoes. It sets the top of your screen from the floor when you sit and when you stand, and above a desk at your desk height. [1, 2]
+1. **Your height → your screen-top number: how high the top of your screen goes above the desk.**
+   How: stand barefoot against a wall, mark the top of your head, measure floor to mark. If you work in shoes, note that too. Every height goes up a little. It sets the top of your screen from the floor when you sit and when you stand, and above a desk at your desk height. [1, 2]
 2. **Your reach → where the screen goes.**
    How: sit back in your chair at your desk, keyboard where you type. Raise one arm straight ahead. Your fingertips mark where the screen goes. Measure from the desk's front edge to your fingertips, then from there to the back edge or the wall. The second number is the room left for the monitor's depth with stand. [5]
 3. **Your window → where the light comes from.**
@@ -29,9 +29,9 @@ This list has three parts: measure at home, check in the shop or on the product 
 
 Each line is a measurement or a test that takes about 30 seconds.
 
-- [ ] **The stand reaches your screen-top height above the desk, or it has VESA holes for an arm.**
+- [ ] **The stand reaches your screen-top number above the desk, or it has VESA holes for an arm.**
   Check: your number is between the lowest and highest "height with stand", or within 2 cm (1 in) of it. In the shop, measure from the desk to the top edge of the screen at the stand's lowest and highest settings. If it falls short at its highest, a monitor riser, a sturdy block made to lift a screen, can lift it. Or look for "VESA" and a size such as "100 × 100" in the product's sizes: an arm then lets you set the height and distance. [2, 3]
-- [ ] **With the top of the screen at your number above the desk, your eyes line up with it.**
+- [ ] **With the top of the screen at your screen-top number above the desk, your eyes line up with it.**
   Check: sit with your elbows level with the shop desk, and look straight ahead. Your eyes are level with the top edge of the screen or a little above it. You don't lift your chin. [2, 4]
 - [ ] **The screen tilts back.**
   Check: tilt it back until the screen faces your eyes square on. OSHA says that usually takes no more than 10 to 20 degrees. On a product page, look for "tilt" with a range in degrees. [2, 3]
@@ -50,7 +50,7 @@ One note before you pay: check the return window. You can't read text or see gla
 
 ## 3. Walk away if you see this
 
-1. **At its highest, the top of the screen stays below your number above the desk**, there are no VESA holes, and you won't put a riser under its foot. [2, 3]
+1. **At its highest, the top of the screen stays below your screen-top number above the desk**, there are no VESA holes, and you won't put a riser under its foot. [2, 3]
 2. **At its lowest, the top of the screen is above your eyes**, and there are no VESA holes. A screen too high bothers you more than one a little too low. [2, 4]
 3. **The screen doesn't tilt**, and there are no VESA holes for an arm. [3]
 4. **From arm's length, you have to turn your head to see the edges**, and your desk can't put it farther away. [4, 5]

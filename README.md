@@ -4,7 +4,7 @@ Checklists to take to the shop before you buy an office chair, a desk or a monit
 
 A chair feels fine for ten seconds in the shop. Two weeks later your feet dangle, or the armrests keep you away from the desk. These lists catch that before you pay.
 
-**Disclosure:** I'm Shyam Verma, and I keep these lists. I make Poxture App, a Mac app that checks your posture. No brand of chair, desk or monitor is named here, and nobody pays to be on a list.
+**Disclosure:** I'm Shyam Verma, and I keep these lists. I make Poxture App, a Mac app that checks your posture, and the poxture.com pages linked here are mine. No brand of chair, desk or monitor is named here, and there are no affiliate links.
 
 ## Contents
 
@@ -17,7 +17,7 @@ Each list has 3 parts:
 
 1. **Measure at home before you go.** A few numbers, written down once.
 2. **Check in the shop or on the product page.** Each line is a measurement, or a test you can do sitting down in about 30 seconds.
-3. **Walk away if you see this.** One failed line is enough to say no.
+3. **Walk away if you see this.** One failed line here is enough to say no.
 
 ## How to use it in a shop
 
@@ -25,9 +25,9 @@ Each list has 3 parts:
 2. Open the list on your phone in the shop, or print it.
 3. Set the item to your numbers, then do each check in order.
 4. Read the "walk away" list. If one line is true, don't buy it.
-5. Before you pay, check the return window. A shop visit is too short to know how it feels after a full day.
+5. Before you pay, check the return window. A shop visit is too short to know how it feels after an hour or two of work.
 
-Your seat, desk and screen heights come from your height. The lists here leave those numbers out. For numbers worked out from your height, use the [desk setup checklist](https://poxture.com/guides/desk-setup-checklist) page.
+Your seat, desk and screen heights come from your height. The lists here leave those numbers out. For numbers worked out from your height, use the online [desk setup checklist](https://poxture.com/guides/desk-setup-checklist) and enter your height once.
 
 ## Sources
 

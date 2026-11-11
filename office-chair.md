@@ -9,15 +9,15 @@ This list has three parts: measure at home, check in the shop or on the product 
 ## 1. Measure at home before you go
 
 1. **Your height → your seat height.**
-   How: stand barefoot against a wall, mark the top of your head, measure floor to mark. Note it if you work in shoes. [1]
+   How: stand barefoot against a wall, mark the top of your head, measure floor to mark. If you work in shoes, note that too. Every height goes up a little. [1]
 2. **Your thigh length → the seat depth you need.**
    How: sit on a hard chair with your back against the backrest. Measure from the backrest to the back of your knee. Write it down as your thigh number.
 3. **Your hip width → the seat width you need.**
    How: sit on a hard, flat seat and measure straight across the widest part of your hips and thighs.
 4. **Your desk height, if the desk stays.**
-   How: measure from the floor to the top of the desk. Your chair has to reach the seat height that puts your elbows level with that desk.
-   - If your desk is more than 2 cm (1 in) higher than suits your seat height, your feet won't reach the floor there. Plan a footrest: a box or a step stool.
-   - If it's more than 2 cm (1 in) lower, the desk is low for you. Furniture risers, sturdy blocks made to lift a desk, can raise it.
+   How: measure from the floor to the top of the desk. Your chair has to reach the seat height for your desk: the one that puts your elbows level with it.
+   - If the seat height for your desk is more than 2 cm (1 in) above your seat height, your feet won't reach the floor there. Plan a footrest: a box or a step stool.
+   - If it's more than 2 cm (1 in) below your seat height, the desk is low for you. Furniture risers, sturdy blocks made to lift a desk, can raise it.
 5. **Your floor: carpet or hard.**
    How: look down. You'll match the chair's wheels to it.
 
@@ -63,7 +63,7 @@ One note before you pay: check the return window. Cornell says to see if the sea
 ## 3. Walk away if you see this
 
 1. **At its lowest, your feet still don't rest flat**, and no shorter lift is offered.
-2. **At its highest, the seat stays below the high end of your seat height**, or below the seat height for your desk if it stays, and no taller lift is offered.
+2. **At its highest, the seat stays below the high end of your seat height**, or below the seat height for your desk if your desk stays, and no taller lift is offered.
 3. **The seat edge touches the back of your knees** when your back is against the backrest, and the seat doesn't slide. It catches you behind the knees or keeps your back off the backrest, so you may end up sliding down your chair. [4]
 4. **The armrests keep you away from the desk** and can't go lower, flip up or come off. You'll lean forward to type and end up hunched over your desk.
 5. **The armrests, at their lowest, lift your elbows**, and they can't flip up or come off. [2]

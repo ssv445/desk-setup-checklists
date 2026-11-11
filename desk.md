@@ -4,12 +4,12 @@ You order the desk that looks good in the photos. On day one your knees knock th
 
 This list has three parts: measure at home, check in the shop or on the product page, and walk away if you see a fault on the last list.
 
-**Your numbers:** your sitting and standing desk heights come from your height. For numbers worked out from your height, use the online [standing desk buying guide](https://poxture.com/guides/how-to-choose-a-desk). It covers sitting desks too.
+**Your numbers:** your sitting and standing desk heights, and your seat height, come from your height. For numbers worked out from your height, use the online [standing desk buying guide](https://poxture.com/guides/how-to-choose-a-desk). It covers sitting desks too.
 
 ## 1. Measure at home before you go
 
 1. **Your height → your desk height, sitting and standing.**
-   How: stand barefoot against a wall, mark the top of your head, measure floor to mark. Note it if you work in shoes. Each desk height is the one that puts your keyboard level with your elbows. [1, 4]
+   How: stand barefoot against a wall, mark the top of your head, measure floor to mark. If you work in shoes, note that too. Every height goes up a little. Each desk height is the one that puts your keyboard level with your elbows. [1, 4]
 2. **Your reach → the depth you need.**
    How: sit back in a chair at a table, keyboard where you type. Raise one arm straight ahead. Your fingertips mark where the screen goes. Measure from the table's front edge to your fingertips. Write it down as your reach. [6]
 3. **Your keyboard, mouse and screen → the width you need.**
